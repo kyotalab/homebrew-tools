@@ -1,9 +1,9 @@
 class Hawk < Formula
   desc "Modern data analysis tool for structured data (JSON, YAML, CSV)"
   homepage "https://github.com/kyotalab/hawk"
-  url "https://github.com/kyotalab/hawk/releases/download/v0.2.2/hawk"
-  sha256 "3d85f7a7e801a39e5702f6af31721d2fb2d32caaae50556ff733a9775989cf98"
-  version "0.2.2"
+  url "https://github.com/kyotalab/hawk/releases/download/v0.2.3/hawk"
+  sha256 "19e0c6bced6dc0c17ca2437c953738567d005e031f2bf692f843aa0d767d6bcc"
+  version "0.2.3"
 
   def install
     bin.install "hawk"
